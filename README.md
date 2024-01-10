@@ -1,4 +1,4 @@
-All files and codes are in master. In the main, you can see the screenshots of the app.
+All files and codes are in the master branch. In the main branch, you can see the screenshots of the app.
 
 
 
